@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/07 15:49:56.000.773,=C:\Users\lcumplido\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2023/09/07 15:49:56.000.757,=C:\Users\lcumplido\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2023/09/07 16:15:12.000.897,C:\Users\lcumplido\Desktop\Blind Chess\Unit1.cpp=C:\Users\lcumplido\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2023/09/07 16:15:12.000.913,C:\Users\lcumplido\Desktop\Blind Chess\Project1.cbproj=C:\Users\lcumplido\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2023/09/07 16:15:12.000.882,C:\Users\lcumplido\Desktop\Blind Chess\Project1PCH2.h=C:\Users\lcumplido\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2023/09/07 16:15:12.000.897,C:\Users\lcumplido\Desktop\Blind Chess\Unit1.dfm=C:\Users\lcumplido\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2023/09/07 16:15:12.000.897,C:\Users\lcumplido\Desktop\Blind Chess\Unit1.h=C:\Users\lcumplido\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2023/09/07 17:04:18.000.291,=C:\Users\lcumplido\Desktop\Blind Chess\Joueur.cpp</Transaction>
+    <Transaction>2023/09/07 17:04:18.000.392,=C:\Users\lcumplido\Desktop\Blind Chess\ReglesEtNotation.cpp</Transaction>
+    <Transaction>2023/09/07 17:04:18.000.207,=C:\Users\lcumplido\Desktop\Blind Chess\Deplacement.cpp</Transaction>
+    <Transaction>2023/09/07 17:04:18.000.260,=C:\Users\lcumplido\Desktop\Blind Chess\Echiquier.cpp</Transaction>
+    <Transaction>2023/09/07 17:04:18.000.360,=C:\Users\lcumplido\Desktop\Blind Chess\Partie.cpp</Transaction>
+    <Transaction>2023/09/07 17:05:21.000.774,=C:\Users\lcumplido\Desktop\Blind Chess\SNClientTCP.cpp</Transaction>
+    <Transaction>2023/09/07 17:05:21.000.890,=C:\Users\lcumplido\Desktop\Blind Chess\SNServeurHTTP.cpp</Transaction>
+    <Transaction>2023/09/07 17:05:21.000.821,=C:\Users\lcumplido\Desktop\Blind Chess\SNImage.cpp</Transaction>
+    <Transaction>2023/09/07 17:05:21.000.952,=C:\Users\lcumplido\Desktop\Blind Chess\SNServeurTcpMonoClient.cpp</Transaction>
+    <Transaction>2023/09/08 12:39:34.000.648,=C:\Users\lcumplido\Desktop\Blind Chess\Unit2.cpp</Transaction>
+    <Transaction>2023/09/13 09:22:44.000.382,=C:\Users\lcumplido\Desktop\Blind Chess\SNServeurTcpMonoclient.h</Transaction>
+    <Transaction>2023/09/13 09:22:54.000.554,=C:\Users\lcumplido\Desktop\Blind Chess\SNServeurHTTP.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Deplacement.cpp"/>
+    <File Path="Deplacement.cpp"/>
+    <File Path="Deplacement.h"/>
+    <File Path="Echiquier.cpp"/>
+    <File Path="Echiquier.cpp"/>
+    <File Path="Echiquier.h"/>
+    <File Path="Joueur.cpp"/>
+    <File Path="Joueur.cpp"/>
+    <File Path="Joueur.h"/>
+    <File Path="Partie.cpp"/>
+    <File Path="Partie.cpp"/>
+    <File Path="Partie.h"/>
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH2.h"/>
+    <File Path="ReglesEtNotation.cpp"/>
+    <File Path="ReglesEtNotation.cpp"/>
+    <File Path="ReglesEtNotation.h"/>
+    <File Path="SNClientTCP.cpp"/>
+    <File Path="SNImage.cpp"/>
+    <File Path="SNImage.cpp"/>
+    <File Path="SNImage.h"/>
+    <File Path="SNServeurHTTP.h"/>
+    <File Path="SNServeurTcpMonoClient.cpp"/>
+    <File Path="SNServeurTcpMonoclient.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.h"/>
+    <File Path="SNServeurHTTP.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>

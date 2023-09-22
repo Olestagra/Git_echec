@@ -1,0 +1,23 @@
+ //---------------------------------------------------------------------------
+
+#ifndef Unit2H
+#define Unit2H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include "SNCLientTCP.h"
+#include "SNServeurTcpMonoClient.h"
+//---------------------------------------------------------------------------
+class ThClientServeur : public TThread
+{
+private:
+protected:
+	void __fastcall Execute();
+public:
+	String information;
+	SNClientTCP modeClient;
+	SNServeurTcpMonoClient modeServeur;
+	__fastcall ThClientServeur(bool CreateSuspended);
+    void __fastcall MiseAJourInterfacePrincipale();
+};
+//---------------------------------------------------------------------------
+#endif
